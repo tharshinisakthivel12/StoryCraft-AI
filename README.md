@@ -83,7 +83,13 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-Add your deployed Streamlit application URL here.
+Try StoryCraft AI here: [Launch StoryCraft AI](https://storycraft-ai-cnxao3y63hywsln8xmm9km.streamlit.app/)
+
+## 📂 Source Code
+
+Explore the source code on GitHub: [StoryCraft AI Repository](https://github.com/tharshinisakthivel12/StoryCraft-AI)
+
+
 
 ## 👩‍💻 Developer
 
